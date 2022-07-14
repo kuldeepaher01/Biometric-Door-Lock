@@ -29,3 +29,6 @@
   ![Biometric Door Lock Circuitry](circuit.png)
   Bare Minimum Circuit
   ![Biometric Door Lock OLD](https://user-images.githubusercontent.com/76651819/167027591-c3dae8c5-87e6-49a8-8a53-3b7080208734.jpg)
+
+## *Author*
+Made With ❤️ By [Kuldeep](https://github.com/kuldeepaher01)
