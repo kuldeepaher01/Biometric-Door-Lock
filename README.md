@@ -18,8 +18,8 @@
 
 - Install [Adafruit-Fingerprint-Sensor-Library](https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library), [LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C). After that make the connections as shown below.
 - Now, go to file -> examples -> Adafruit-Fingerprint-Sensor-Library -> enroll (To enroll fingerprint(s)). *And follow the instructions from the ino file*. Upload the code open serial monitor and follow the instructions.
-- After that, upload the [Finger_LCD.ino](Finger_LCD.ino).
-- And boom!!! You r good to go......
+- After that, upload the [code.ino](code.ino).
+- And boom!!! You are good to go......
 
   New Image ->
   ![Biometric Door Lock New](fpscan.png)
