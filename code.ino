@@ -346,6 +346,7 @@ void beep(int i)
     digitalWrite(LEDG, LOW);
     digitalWrite(Buz, LOW);
     delay(50);
+      
     i--;
   }
 }
