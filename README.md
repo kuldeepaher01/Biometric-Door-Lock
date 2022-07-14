@@ -6,7 +6,7 @@
 
 > 1. Arduino UNO (You can use any other arduino board)
 > 2. Fingerprint Sensor R307
-> 3. 16*4 LCD (You can use 16*2)
+> 3. 16 * 4 LCD (You can use 16 * 2)
 > 4. Solenoid Door Lock (DO check the locking orientation while purchasing)
 > 5. 5VDC Relay
 > 6. RGB LED (I used common anode LED)
